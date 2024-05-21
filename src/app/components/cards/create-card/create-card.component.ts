@@ -16,5 +16,9 @@ export class CreateCardComponent {
 
   createCard() {
     console.log('Card created:', this.card);
+  };
+
+  cancel() {
+    console.log('Card canceled:', this.card);
   }
 }
