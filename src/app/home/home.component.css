@@ -1,0 +1,11 @@
+
+.Content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Content h1{
+    color: tomato;
+}
